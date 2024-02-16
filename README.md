@@ -13,7 +13,7 @@ Com o DBeaver aberto, vamos criar uma conexão com o banco de dados. Para isso, 
 O programa vai abrir uma janela e você deverá selecionar a opção `Database Connection` e clicar em `Next`:
 
 ![](/imagens/imagem1.jpg)
-
+ 
 Em seguida, selecione o SQLite como driver e clique em `Next`:
 
 ![](/imagens/imagem2.jpg)
