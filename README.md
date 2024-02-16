@@ -12,15 +12,15 @@ Com o DBeaver aberto, vamos criar uma conexão com o banco de dados. Para isso, 
 
 O programa vai abrir uma janela e você deverá selecionar a opção `Database Connection` e clicar em `Next`:
 
-![](/imagens/imagem1.png)
+<img src="/imagens/imagem1.png">
  
 Em seguida, selecione o SQLite como driver e clique em `Next`:
 
-![](/imagens/imagem2.png)
+<img src="/imagens/imagem2.png">
 
 Por último, você deve clicar no botão de `Create` e selecionar a pasta onde será salvo seu banco. Essa pasta deve ser a mesma que receberá o script do Python:
 
-![](/imagens/imagem3.png)
+<img src="/imagens/imagem3.png">
 
 ## Como acessar o script
 
